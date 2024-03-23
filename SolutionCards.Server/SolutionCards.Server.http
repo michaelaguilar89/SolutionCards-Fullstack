@@ -1,0 +1,6 @@
+@SolutionCards.Server_HostAddress = http://localhost:5130
+
+GET {{SolutionCards.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "elM+wglanPr+H1wMpiei0B127mVOfaOJo6aosOz7+oA=",
+  "Source": "SolutionCards.Server",
+  "BasePath": "_content/SolutionCards.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mchla\\OneDrive\\Documentos\\Proyectos\\SolutionCards\\solutioncards.client\\solutioncards.client.esproj",
+      "Version": 2,
+      "Source": "solutioncards.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
